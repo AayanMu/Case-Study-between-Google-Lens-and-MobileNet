@@ -1,0 +1,66 @@
+h2{
+    color: rgb(255, 72, 0);
+}
+
+#i1{
+    width: 60px;
+    height: 60px;
+}
+
+#vr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#mn{
+    padding: 10px;
+    width: fit-content;
+}
+
+body{
+    background-color: rgb(201, 225, 244);
+}
+
+b{
+    color: rgb(82, 21, 139);
+}
+
+i{
+    color: crimson;
+}
+
+.label{
+    background-color: aliceblue;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+.img_rslt{
+    background-color: rgb(123, 123, 123);
+    color: aliceblue;
+    border-radius: 30px;
+    padding: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+}
+
+.mini-result{
+    margin-top:30px ;
+}
+
+.footer{
+    background-color: rgb(118, 118, 118);
+    color: aliceblue;
+    padding: 10px;
+}
+
+
